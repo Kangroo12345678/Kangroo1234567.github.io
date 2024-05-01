@@ -1,4 +1,4 @@
-name: Researcher
+name: Michael Kang
 description: Personal website
 menu:
  - page: About
@@ -39,14 +39,12 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
- - title: OleVik.me
-   url: "http://olevik.me/"
  - title: Research Gate
-   url: "https://www.researchgate.net/profile/Ole_Vik"
+   url: ""
  - title: LinkedIn
-   url: "https://no.linkedin.com/in/olehhvik"
+   url: ""
  - title: Twitter
-   url: "https://twitter.com/olehhv"
+   url: ""
 mathjax: false
 markdown: kramdown
 encoding: utf-8
