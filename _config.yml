@@ -34,16 +34,14 @@ menu:
       url: "#miscellaneous"
  - page: Logs
    url: /logs
- - page: Media
-   url: /media
- - page: Accolades
-   url: /accolades
 menu_external:
  - title: Research Gate
    url: ""
  - title: LinkedIn
    url: ""
  - title: Twitter
+   url: ""
+ - title: Google Scholar
    url: ""
 mathjax: false
 markdown: kramdown
