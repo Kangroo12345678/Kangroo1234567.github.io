@@ -6,5 +6,3 @@ layout: default
 ---
 
 Hi!
-
-![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
